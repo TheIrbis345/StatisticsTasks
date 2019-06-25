@@ -1,0 +1,37 @@
+﻿@using  StatisticsTasks.Models
+@model StatisticsTasks.Models.TestModel
+@{
+    ViewBag.Title = "Get";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Get</h2>
+<table>
+    <tr>
+        <td>
+            Name
+        </td>
+        <td>
+            Majors
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @foreach (var x in ViewBag.choice1)
+            {
+            <p>
+                @x
+            </p>
+
+            }
+        </td>
+        <td>
+            @foreach (var y in ViewBag.choice2)
+            {
+            <p>
+                @y
+            </p>
+             }
+            </td>
+        </tr>
+</table>

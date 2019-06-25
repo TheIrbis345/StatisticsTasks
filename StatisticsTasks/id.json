@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "potent-bloom-221715",
+  "private_key_id": "b89f066464ff30e2f4a302971f099f2d2d839743",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU2YmcktATdY9F\nj7SdksbHAPjoIU+0N7NO4alOKwxdLXfCO6DcFn5IEYAPWOHEuJrPJNBOTr/h9gN1\nPw1DWMcKmf6BvYBL3JkHyGwGvIW1jsd/8/5MK0bwUB5JrYAucUQhGD32yh3m4wfm\niD3+RGN6Oy461BLsaaAKG8YaGyPzbwk6z8jQdWMLTtnRzn9ZCd5hs9vrPucb3EwH\nWwhxOhFGjznJAaRcYdu5NTGG2VrsrA6ghw/jfJjTcze9TlsWOkycSBlblISw8CNd\nZHjRPrwCLAe71TkIlksUZ/3HNFtsxXGqDluF6rAVqm/TmVsW/+Nm8PBUf3kKW7Or\n24xnxqa/AgMBAAECggEAD6NX7+/9Z6CYgSTYwUb6Yb6Zivx/jZ8WBnKf7MVO6D2h\n8dxNqj3g00yt2vLNy5VAkn2C7G3uvRxFDsUuJUeNgCLmRwP0PB6eA6te/HO3Yyp1\nT9pOUaxQTvGj+AfORhs+RSwxyUL6RW9isjZKT7cYk+9rKxlPtpzgDD4UJPDfiE/6\nrlMncgNYfNHu+Vknz9M8Dmb8F+OO3KR9I2iGVr3phHK1HWKv/zSHP+yH821Hq7pu\noeSujgVMdlWwMVByBwGifStPIBijKK7+8yUfub6N/VCrPV7ksSkst7hYKqAgwafE\nU1++IK2x/IFinh+ykC/K7otgPN0igw8gePRX0kBRKQKBgQD/U1dw3y7qyPxzTLpg\nUI6sQpG1LKaJdXRmRw2ZHc2BE/jHBvMHqGiXVjBpp67Nj2Tt+HKAUKYNyTbXKpkF\nGermFAIOXJenN9/GUFHsTWCUR5DQ7CrsRc/HHrUm1R75BPCmH12Csdv0AoT/ubdp\nw+14IeCkgcUlCsnFc+gi5VDEawKBgQDVaXj+Zmnn2SKB/gbtYEH+g/1HtwLEQITV\nAk0F4ZRsxORO6xzXMVBiS748C1X8DtnL8aWhWOTEKTlszSiH8E/1gmH+RH1o6dLD\nH+PExeL0UrxcZfY4IQxG+4su1SUaAN8p5/FCSia7G2uqSseWoJ+7KYG2n4+rBc9P\ndP8e8Afb/QKBgQCkiReLRDfe00BkKOjeEmuutINjRm/Xmxo0ossvhdYdvToPP/oz\nUCJ+i+tM2uM50pNPC1D2QYKQ1b8Cb5AGioomVHRyvtZ3yvjoum/goIiBZZD8IYUT\nl3VrMu24JZT9EmLmGsZO58D/gPQmO47nmHwac3JpcLsTwNz/4k6Q1kfzGwKBgAC+\nETGxYYTw+HHDVHrW7uPXybXKKTRNlSi4jVQL6NxIAxNTNhJ5lXICGXNUBsSNuKxA\n9vaMvJ8CFbUPMajnaR/NiFG+I0GOLrGHFt/EYHnBH+6iXCzt0IEetuk+zJY+kogu\nymQUpfXYrpM1F2SqwmOATXc5LuLFbmc0XP7ajuxxAoGBAPrpBZzDk7B7LQwwuV8t\nYLJ3/Mmb2CaJT5zhglpyG2uECMX5u06SdQSMMtQdBlEdG4FnaMS8XvhqiMNmrJft\nyfjxTSaRu5C0n3r+Oo9vERKEF8M8jO6Cymk7XInve5yBotvuQrIo8+Q0vP7rjdhp\nMvGxZ1QJrHb7G5E7jngGhSfD\n-----END PRIVATE KEY-----\n",
+  "client_email": "statisticstasks@potent-bloom-221715.iam.gserviceaccount.com",
+  "client_id": "101148898295804042195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/statisticstasks%40potent-bloom-221715.iam.gserviceaccount.com"
+}

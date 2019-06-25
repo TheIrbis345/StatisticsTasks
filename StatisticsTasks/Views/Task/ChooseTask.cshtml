@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "ChooseTask";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Выбор решаемой задачи</h2>
+<p>
+    Выберите, какую задачу Вы хотите решить.
+</p>
+@using (Html.BeginForm("WhichTask","Task"))
+{
+    @Html.DropDownList("Result");
+    <input type="submit"/>
+}

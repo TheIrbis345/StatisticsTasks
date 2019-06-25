@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "SampleVariance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Исправленная среднеквадратическая дисперсия</h2>
+<p>
+    Укажите число значений, необходимое для подсчета исправленной среднеквадратической дисперсии:
+</p>
+<p>
+    @using (Html.BeginForm("MainProc", "SampleVariance"))
+    {
+        <input type="text" name="Num" />
+        <input type="submit" />
+    }
+</p>
+

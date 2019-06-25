@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "LinearRegression";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Линейная регрессия</h2>
+<p>
+    Укажите число значений, необходимое для поиска коэффицинетов уравнения линейной регрессии:
+</p>
+
+<p>
+    @using (Html.BeginForm("MainProc", "LinearRegression"))
+    {
+        <input type="text" name="Num" />
+        <input type="submit" />
+    }
+</p>
+

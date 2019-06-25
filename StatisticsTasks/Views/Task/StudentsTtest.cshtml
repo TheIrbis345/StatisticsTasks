@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "StudentsTtest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.choice</h2>
+<p>
+    Укажите число значений, значение критерия и тип теста, необходимые для поиска коэффицинетов уравнения линейной регрессии:
+</p>
+
+<p>
+    @using (Html.BeginForm("GetN", "TTest"))
+    {
+        <input type="text" name="Num" />
+        <input type="text" name="tls" />
+        <input type="text" name="tp" />
+        <input type="submit" />
+    }
+</p>
+
+
